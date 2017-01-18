@@ -1,0 +1,4 @@
+#!/bin/sh
+cd ~/Documents/Personal/Programming/Python/SH3SiteParser
+source ./env/bin/activate
+make $@
